@@ -1,4 +1,24 @@
-## Welcome to Euclid Development Environment
+## Bench network
+
+**Bench Network** is presented as a comprehensive solution to the challenges inherent to the real-world asset market. Our platform leverages blockchain technology, specifically the [Constellation Network](https://constellationnetwork.io/), to offer a series of advantages that transform the way traditional assets are managed, bought, and sold.
+
+### Tokenization of Real-World Assets
+The core of **Bench Network**'s solution is the network for tokenization of real-world assets (RWA). Through the tokenization process, we convert physical assets, such as commercial real estate, artwork, and commodities, into digital tokens on the Bench Blockchain. These tokens represent fractional ownership of the underlying assets, allowing investors to acquire smaller portions of them.
+
+### Decentralized and Secure Platform:
+**Bench Network** operates as a layer 1 on the Constellation Network, a network known for its scalability, security, and ability to manage a wide range of decentralized applications. Our platform offers a secure and transparent environment where investors can participate in the tokenization of real-world assets without concerns about the integrity of transactions or the protection of their digital assets.
+
+### Decentralized Secondary Markets
+We facilitate the liquidity of tokenized assets through decentralized secondary markets. These markets allow investors to buy and sell tokens efficiently, providing an avenue for continuous trading and profit realization. By democratizing access to liquidity, **Bench Network** removes one of the main barriers to participation in the real-world asset market.
+
+### Intuitive and Accessible Interface
+Our platform is designed to be intuitive and accessible to all types of users, from retail investors to financial institutions. We provide a seamless user experience that guides users through the process of investing in tokenized assets, from asset selection to trading on secondary markets.
+
+### Regulatory compliance
+At **Bench Network**, we are committed to complying with relevant regulations in all jurisdictions in which we operate. We work closely with legal and regulatory experts to ensure our platform meets the highest security and compliance standards.
+
+In summary, **Bench Network** offers a comprehensive solution for the tokenization of real-world assets, addressing the accessibility, transparency, and liquidity challenges that have limited participation in this market. With our Constellation Network-based platform, we are democratizing investment in real-world assets and opening new opportunities for investors from all walks of life.
+
 # Dependencies
 ## Docker
 * You should have Docker installed
